@@ -2,7 +2,7 @@
 name:DS-Industry
 displayName:DS Industry
 author:dashmaster
-version:0.1
+version:0.2
 minGameVersion:120
 dependencies:[]
 hidden:false

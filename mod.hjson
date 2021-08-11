@@ -1,0 +1,9 @@
+{
+name:DS-Industry
+displayName:DS Industry
+author:dashmaster
+version:0.1
+minGameVersion:120
+dependencies:[]
+hidden:false
+}

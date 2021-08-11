@@ -1,16 +1,18 @@
 type:GenericCrafter
 category:crafting
-requirements:
+requirements:[
     copper/75
     lead/50
+]
 health:200
 itemcapacity:20
+
 hasItems:true
 hasLiquids:false
 hasPower:false
-consumes:
-    items:
-        items:
+consumes:{
+    items:{
+        items:[
             {
                 item:pyratite
                 amount:1
@@ -19,6 +21,9 @@ consumes:
                 item:copper
                 amount:2
             }
+        ]
+    }
+}
 outputItem:Velkor/2
 craftTime:80
 
